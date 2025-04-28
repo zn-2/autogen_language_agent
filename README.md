@@ -2,7 +2,7 @@
 
 
 
-The attached Python script main.py can be used to answer any queries related to learning or understanding the Thai language, for English speakers. It connects to the gpt-4o LLM model to answer any queries.
+The Python script main.py can be used to answer any queries related to learning or understanding the Thai language, for English speakers. It connects to the gpt-4o LLM model to answer any queries.
 
 
 
