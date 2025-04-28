@@ -1,4 +1,4 @@
-# AI Thai Language Agent 🛠️
+## AI Thai Language Agent 🛠️
 
 ---
 
@@ -6,7 +6,7 @@ The Python script main.py can be used to answer any queries related to learning 
 
 ---
 
-## How to use 🚀🚀🚀
+### How to use 🚀🚀🚀
 
 
 Simply replace the string `"How do I say 'Hello' in Thai?"` in:
