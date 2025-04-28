@@ -4,7 +4,7 @@
 The attached Python script autogen_ai_language_assistant.py can be used to answer any queries related to learning or understanding the Thai language, for English speakers. It connects to the gpt-4o LLM model to answer any queries.
 
 
-To use: 
+To use 🚀
 Simply replace the string "Can you focus on pronounciation?" in:
 
 await Console(agent.run_stream(task="Can you focus on pronounciation?",cancellation_token=CancellationToken()))
